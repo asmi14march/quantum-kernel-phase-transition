@@ -1,0 +1,91 @@
+dataset,config,shots,seed,test_accuracy
+ising-local,tuned bandwidth,16.0,0,0.7983333333333333
+ising-local,tuned bandwidth,64.0,0,0.835
+ising-local,tuned bandwidth,256.0,0,0.8566666666666667
+ising-local,tuned bandwidth,1024.0,0,0.88
+ising-local,tuned bandwidth,4096.0,0,0.9233333333333333
+ising-local,tuned bandwidth,inf,0,0.945
+ising-local,bandwidth = 1.0,16.0,0,0.72
+ising-local,bandwidth = 1.0,64.0,0,0.7983333333333333
+ising-local,bandwidth = 1.0,256.0,0,0.8366666666666667
+ising-local,bandwidth = 1.0,1024.0,0,0.87
+ising-local,bandwidth = 1.0,4096.0,0,0.905
+ising-local,bandwidth = 1.0,inf,0,0.915
+ising-local,tuned bandwidth,16.0,1,0.885
+ising-local,tuned bandwidth,64.0,1,0.8516666666666667
+ising-local,tuned bandwidth,256.0,1,0.8866666666666667
+ising-local,tuned bandwidth,1024.0,1,0.885
+ising-local,tuned bandwidth,4096.0,1,0.875
+ising-local,tuned bandwidth,inf,1,0.9533333333333334
+ising-local,bandwidth = 1.0,16.0,1,0.72
+ising-local,bandwidth = 1.0,64.0,1,0.7833333333333333
+ising-local,bandwidth = 1.0,256.0,1,0.7666666666666667
+ising-local,bandwidth = 1.0,1024.0,1,0.83
+ising-local,bandwidth = 1.0,4096.0,1,0.8366666666666667
+ising-local,bandwidth = 1.0,inf,1,0.8966666666666666
+ising-local,tuned bandwidth,16.0,2,0.9066666666666666
+ising-local,tuned bandwidth,64.0,2,0.94
+ising-local,tuned bandwidth,256.0,2,0.9266666666666666
+ising-local,tuned bandwidth,1024.0,2,0.915
+ising-local,tuned bandwidth,4096.0,2,0.9466666666666667
+ising-local,tuned bandwidth,inf,2,0.9583333333333334
+ising-local,bandwidth = 1.0,16.0,2,0.6783333333333333
+ising-local,bandwidth = 1.0,64.0,2,0.83
+ising-local,bandwidth = 1.0,256.0,2,0.8566666666666667
+ising-local,bandwidth = 1.0,1024.0,2,0.8616666666666667
+ising-local,bandwidth = 1.0,4096.0,2,0.9233333333333333
+ising-local,bandwidth = 1.0,inf,2,0.9233333333333333
+ising-local,tuned bandwidth,16.0,3,0.865
+ising-local,tuned bandwidth,64.0,3,0.8766666666666667
+ising-local,tuned bandwidth,256.0,3,0.9083333333333333
+ising-local,tuned bandwidth,1024.0,3,0.92
+ising-local,tuned bandwidth,4096.0,3,0.9216666666666666
+ising-local,tuned bandwidth,inf,3,0.9566666666666667
+ising-local,bandwidth = 1.0,16.0,3,0.7266666666666667
+ising-local,bandwidth = 1.0,64.0,3,0.795
+ising-local,bandwidth = 1.0,256.0,3,0.8633333333333333
+ising-local,bandwidth = 1.0,1024.0,3,0.885
+ising-local,bandwidth = 1.0,4096.0,3,0.8816666666666667
+ising-local,bandwidth = 1.0,inf,3,0.9016666666666666
+ising-local,tuned bandwidth,16.0,4,0.8433333333333334
+ising-local,tuned bandwidth,64.0,4,0.885
+ising-local,tuned bandwidth,256.0,4,0.8783333333333333
+ising-local,tuned bandwidth,1024.0,4,0.8783333333333333
+ising-local,tuned bandwidth,4096.0,4,0.9083333333333333
+ising-local,tuned bandwidth,inf,4,0.9683333333333334
+ising-local,bandwidth = 1.0,16.0,4,0.7083333333333334
+ising-local,bandwidth = 1.0,64.0,4,0.78
+ising-local,bandwidth = 1.0,256.0,4,0.815
+ising-local,bandwidth = 1.0,1024.0,4,0.8133333333333334
+ising-local,bandwidth = 1.0,4096.0,4,0.8633333333333333
+ising-local,bandwidth = 1.0,inf,4,0.9066666666666666
+tfim,tuned bandwidth,16.0,0,0.9883333333333333
+tfim,tuned bandwidth,64.0,0,0.985
+tfim,tuned bandwidth,256.0,0,0.985
+tfim,tuned bandwidth,1024.0,0,0.985
+tfim,tuned bandwidth,4096.0,0,0.985
+tfim,tuned bandwidth,inf,0,0.985
+tfim,tuned bandwidth,16.0,1,0.9866666666666667
+tfim,tuned bandwidth,64.0,1,0.985
+tfim,tuned bandwidth,256.0,1,0.985
+tfim,tuned bandwidth,1024.0,1,0.985
+tfim,tuned bandwidth,4096.0,1,0.985
+tfim,tuned bandwidth,inf,1,0.985
+tfim,tuned bandwidth,16.0,2,0.9866666666666667
+tfim,tuned bandwidth,64.0,2,0.985
+tfim,tuned bandwidth,256.0,2,0.9866666666666667
+tfim,tuned bandwidth,1024.0,2,0.985
+tfim,tuned bandwidth,4096.0,2,0.985
+tfim,tuned bandwidth,inf,2,0.985
+tfim,tuned bandwidth,16.0,3,0.9866666666666667
+tfim,tuned bandwidth,64.0,3,0.985
+tfim,tuned bandwidth,256.0,3,0.9866666666666667
+tfim,tuned bandwidth,1024.0,3,0.985
+tfim,tuned bandwidth,4096.0,3,0.9866666666666667
+tfim,tuned bandwidth,inf,3,0.9866666666666667
+tfim,tuned bandwidth,16.0,4,0.9916666666666667
+tfim,tuned bandwidth,64.0,4,0.9866666666666667
+tfim,tuned bandwidth,256.0,4,0.9883333333333333
+tfim,tuned bandwidth,1024.0,4,0.9883333333333333
+tfim,tuned bandwidth,4096.0,4,0.9883333333333333
+tfim,tuned bandwidth,inf,4,0.9883333333333333
